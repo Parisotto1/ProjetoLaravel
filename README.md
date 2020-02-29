@@ -1,2 +1,2 @@
-# ProjetoLaravel
-Desenvolvendo um projeto com o framework Laravel
+# Projeto Laravel
+## Desenvolvendo um projeto com o framework Laravel
