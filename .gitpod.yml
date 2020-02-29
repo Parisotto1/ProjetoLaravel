@@ -1,4 +1,0 @@
-tasks:
-  - init: mysqladmin -u root password 'gitpod'
-image:
-  file: .gitpod.Dockerfile
